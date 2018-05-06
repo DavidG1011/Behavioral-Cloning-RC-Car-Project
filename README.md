@@ -110,19 +110,9 @@ The track was a little too small on the corners. The car has a poor turning radi
 ### Training Woes: 
 Inherently, behavior cloning produces a model that can only be as good as the training data put into it. This meant that the RC car had to be manually driven for 10 - 15 laps around the track as perfectly as possible to get sufficient training data. Now, this presented a problem, as my RC skills aren't what you would call.."good". This meant I had to practice a lot, recharge the car's battery for a few hours, then try again. Eventually after a couple days worth of effort, and about 15 different models, I finally had one sufficient enough to navigate my car to some degree of success. This model can be seen in a video located [here](https://github.com/DavidG1011/Behavioral-Cloning-RC-Car-Project/blob/master/Videos/1.mp4) (will have to be viewed raw).
 
+### Future Changes And Ideas:
+- Further improvement of the training process to produce better results. The Donkeycar platform does not currently restrict the size of the image, so it is training on data that's not useful to navigation. Image flipping; images and steering angles can be flipped to increase the amount of training data available without recording more. This method is used in my behavioral cloning project for Udacity. 
 
+- Train traffic sign behavior for more complex automation. This goal of course comes after improving general track behavior. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Perhaps explore areas of automation other than behavior cloning. Might be hard to do with the low power of the Raspberry Pi.
