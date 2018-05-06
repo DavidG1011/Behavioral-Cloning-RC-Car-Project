@@ -89,6 +89,9 @@ The old camera mount was repurposed into a power bank mount. I could take out th
 ![img5](Pictures/7.jpg)
 
 
+Now, I know this design won't win me any awards, but it's functional. The main focus of this project is functionality.
+
+
 ### Track Design:
 If you build it, they will come...
 
@@ -115,4 +118,4 @@ Inherently, behavior cloning produces a model that can only be as good as the tr
 
 - Train traffic sign behavior for more complex automation. This goal of course comes after improving general track behavior. 
 
-- Perhaps explore areas of automation other than behavior cloning. Might be hard to do with the low power of the Raspberry Pi.
+- Perhaps explore areas of automation other than behavioral cloning. Might be hard to do with the low power of the Raspberry Pi.
