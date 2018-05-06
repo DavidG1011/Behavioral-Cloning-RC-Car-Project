@@ -52,7 +52,7 @@ be cool to work with the same theory on a tangible project. My behavioral clonin
 ## The Journey:
 
 ### Prototyping:
-First, the car chassis needed to be modified so that the components needed would fit on the car. The first design was simple, just a piece of masonite fitted over the existing pegs that held the original car shell. A backboard was also added for fitting the camera, but this was ultimately too short for training purposes. 
+First, the car chassis needed to be modified so that the components needed would fit on the car. The first design was simple, just a piece of masonite fitted over the existing pegs that held the original car shell. A backboard was also added for fitting the camera, but this was ultimately too small to see the entire driving surface. 
 
 
 
