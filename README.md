@@ -61,9 +61,43 @@ The backboard was going to be screwed onto the suspension for stability, but a f
 ![img2](Pictures/2.jpg)
 
 ### Prototyping Electrical Components:
-Next, the electronics needed to be prototyped. The pieces were placed in a general location to see where they might fit best.  
+Next, the electronics needed to be prototyped. The pieces were placed in a general location to see where they might fit best. 
+It's alive!
 
 ![img3](Pictures/4.jpg)
+
+
+The wood underneath is to keep the car from running away while testing the motor. 
+
+### Redesign:
+At this point, I realized that the backboard was far too small to mount that camera on. This prompted a slight modification to the car. The electronic components were also mounted onto the masonite. 
+
+![img4](Pictures/6.jpg)
+
+This modification meant that the camera was high up enough to see plenty of the driving surface. This handy new camera mount is the shell cover from a D-Link KVM switch. Waste not, want not. 
+
+The old camera mount was repurposed into a power bank mount. I could take out the old camera mount and just strap the power bank to the new one, but I didn't want the extra weight on it to cause camera shake. 
+
+![img5](Pictures/7.jpg)
+
+### Track Design:
+If you build it, they will come...
+
+The track design is simple. I wanted a single-line lane marker with high-contrast against the floor it was on. I chose red, as the floor is light gray. The images are gray scaled before training and inferencing, but this contrast will still be retained. 
+
+This is simply red ribbon taped with masking tape.
+
+![img5](Pictures/9.jpg)
+
+### Track Redesign...:
+The track was a little too small on the corners. The car has a poor turning radius, which unfortunately made it hard to stay within the track on turns. I widened the track on the corners to make it easier to stay within the lines. 
+
+![img6](Pictures/11.jpg)
+
+
+
+
+
 
 
 
